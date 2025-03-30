@@ -1,5 +1,1 @@
-- 👋 Hi there, I’m Devan Asokan (@lemonmelonn)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Analytics in Asia Pacific University
-- 📫 How to reach me ...
-
+Hi there! I’m a passionate learner in the world of data, currently sharpening my skills in extracting insights, building predictive models, and telling stories through data. My projects ranges from exploratory data analysis (EDA) and dashboard creation (Tableau/Power BI) to machine learning workflows using Python libraries like Pandas, Scikit-learn, and TensorFlow. I thrive on solving real-world problems—whether it’s cleaning messy datasets, optimizing models, or visualizing trends—and I’m always eager to explore new tools and techniques. Feel free to explore my work, and don’t hesitate to reach out for collaborations or feedback! Let’s turn data into decisions. 📊✨
