@@ -39,7 +39,7 @@ An NLP-based classification system that uses **BERT and deep learning models** t
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
-**Machine Learning • Deep Learning • NLP • Transformers • BERT • Time Series Forecasting • Hyperparameter Tuning**
+**Machine Learning • Deep Learning • NLP • Transformers • BERT • Hugging Face • Time Series Forecasting • Hyperparameter Tuning**
 
 ### Tools & Platforms
 
@@ -92,7 +92,7 @@ Developed a custom Python prediction algorithm to forecast football match goals 
 
 * 🥇 **SAS Hackathon 2025 — Global Champion, Energy Track**
 * 🏅 **UMDAC Datathon 2024 — Finalist**
-* 🎓 **Vice Chancellor's List — 2024/25**
+* 🎓 **APU Vice Chancellor's List — 2024/25**
 * 📜 **PwC Trust Ambassador — July 2025 – June 2026**
 
 
@@ -112,11 +112,11 @@ Developed a custom Python prediction algorithm to forecast football match goals 
 
 ## 📫 Let's Connect
 
-📧 **Email:** [devanasokan@gmail.com](mailto:devanasokan@gmail.com)
+📧 [devanasokan@gmail.com](mailto:devanasokan@gmail.com)
 
-💼 **LinkedIn:** [devanasokan](https://www.linkedin.com/in/devan-asokan/)
+💼 [LinkedIn](https://www.linkedin.com/in/devan-asokan/)
 
-🤗 **Hugging Face:** [devanasokan](https://huggingface.co/devanasokan)
+🤗 [Hugging Face](https://huggingface.co/devanasokan)
 
 ---
 
