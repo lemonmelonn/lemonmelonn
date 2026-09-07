@@ -96,7 +96,7 @@ Developed a custom Python prediction algorithm to forecast football match goals 
 
 ## 📫 Let's Connect
 
-[📄 View my Resume]((resume.pdf))
+📄 [View my Resume]((resume.pdf))
 
 📧 [devanasokan@gmail.com](mailto:devanasokan@gmail.com)
 
