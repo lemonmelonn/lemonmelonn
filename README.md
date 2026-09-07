@@ -8,22 +8,6 @@ I enjoy turning data into practical solutions, from developing NLP classificatio
 
 ---
 
-## 🔭 Currently Working On
-
-**Song Lyrics Appropriateness Classification — Final Year Project**
-
-An NLP-based classification system that uses **BERT and deep learning models** to classify song lyrics as appropriate or inappropriate for children.
-
-* 🧹 Data collection and preprocessing
-* 🤖 BERT and deep learning model development
-* ⚙️ Hyperparameter optimization with Optuna
-* 📊 Model evaluation and performance analysis
-* 🤗 Model deployment through Hugging Face Hub
-* 📈 Interactive Python Dash dashboard
-* 🎵 Spotify API integration for song search and currently playing track analysis
-
----
-
 ## 🛠️ Technical Skills
 
 ### Programming & Data
