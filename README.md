@@ -2,9 +2,13 @@
 
 ### Aspiring Data Scientist | Data Analytics | Machine Learning & NLP
 
-I'm a **Computer Science (Data Analytics) student at Asia Pacific University** with a strong interest in **machine learning, natural language processing, predictive analytics, and data-driven applications**.
+I am a recent Computer Science graduate specialising in Data Analytics, with a strong interest in data, artificial intelligence, and technology-driven problem-solving.
 
-I enjoy turning data into practical solutions, from developing NLP classification models and forecasting systems to automating real-world business processes and building interactive data applications.
+Through my academic projects, internship experience, and participation in industry competitions, I have developed practical skills in Python, SQL, data analytics, machine learning, and process automation. I enjoy working with data to uncover insights, build useful solutions, and improve existing processes.
+
+I am currently seeking full-time opportunities where I can apply my technical knowledge, continue learning, and contribute to meaningful projects alongside experienced professionals. I am particularly interested in opportunities related to data analytics, data science, data engineering, and AI.
+
+I look forward to connecting with professionals and organisations where I can grow, contribute, and make a positive impact.
 
 ---
 
